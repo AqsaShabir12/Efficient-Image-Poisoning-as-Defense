@@ -1,6 +1,6 @@
-# cs577-final-project
+# Efficient-Image-Poisoning-as-Defense
 
-**Efficient Image Poisoning as Defense:** Disrupting Profile Matching on OSNs and Preserving Human Comprehension
+Disrupting Profile Matching on OSNs and Preserving Human Comprehension
 
 This repository contains the replication package of our project in two parts; Gaussian Blur Obfuscation, and Salient Feature Obfuscation. It also includes our trial of updating the study "FaceOff", which is a failed attempt.
 
